@@ -14,14 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-_rpm_key:
-  - key: "http://download.videolan.org/SuSE/Leap_15.1/repodata/repomd.xml.key"
-    fingerprint: "BC8D780DE3308581B2E0708533DE8FB7C8DA93D2"
-    state: "present"
-
 _zypper_repository:
   - name: "vlc"
-    repo: "https://download.videolan.org/pub/vlc/SuSE/Leap_15.1/"
+    repo: "https://download.videolan.org/pub/vlc/SuSE/Leap_15.2"
     state: "present"
 
 _zypper:
