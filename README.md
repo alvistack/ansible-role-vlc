@@ -1,7 +1,7 @@
 # Ansible Role for VLC
 
 [![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-vlc.svg)](https://travis-ci.com/alvistack/ansible-role-vlc)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc)
+[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.vlc-blue.svg)](https://galaxy.ansible.com/alvistack/vlc)
 
