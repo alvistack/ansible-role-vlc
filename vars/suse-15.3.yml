@@ -16,7 +16,7 @@
 
 _zypper_repository:
   - name: "vlc"
-    repo: "http://download.videolan.org/pub/vlc/SuSE/Leap_15.3"
+    repo: "http://download.videolan.org/pub/vlc/SuSE/SLEap_15.3"
     state: "present"
 
 _zypper:
