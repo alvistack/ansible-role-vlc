@@ -1,9 +1,13 @@
 # Ansible Role for VLC
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-vlc/master)](https://gitlab.com/alvistack/ansible-role-vlc/-/pipelines)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/releases)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.vlc-blue.svg)](https://galaxy.ansible.com/alvistack/vlc)
+[![Gitlab pipeline
+status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-vlc/master)](https://gitlab.com/alvistack/ansible-role-vlc/-/pipelines)
+[![GitHub
+release](https://img.shields.io/github/release/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/releases)
+[![GitHub
+license](https://img.shields.io/github/license/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/blob/master/LICENSE)
+[![Ansible
+Role](https://img.shields.io/badge/galaxy-alvistack.vlc-blue.svg)](https://galaxy.ansible.com/alvistack/vlc)
 
 Ansible Role for VLC Installation.
 
@@ -39,7 +43,8 @@ This role could simply deploy to `localhost` as below:
 ## License
 
   - Code released under [Apache License 2.0](LICENSE)
-  - Docs released under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+  - Docs released under [CC
+    BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 ## Author Information
 
