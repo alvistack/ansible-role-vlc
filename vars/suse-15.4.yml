@@ -15,20 +15,20 @@
 # limitations under the License.
 
 _rpm_key:
-  - key: "http://download.videolan.org/pub/vlc/SuSE/SLEap_15.4/repodata/repomd.xml.key"
+  - key: "http://download.videolan.org/pub/vlc/SuSE/15.4/repodata/repomd.xml.key"
     fingerprint: "BC8D780DE3308581B2E0708533DE8FB7C8DA93D2"
     state: "present"
 
 _yum_repository:
   - file: "vlc"
     name: "vlc"
-    description: "VideoLAN repo (SLEap_15.4)"
-    baseurl: "http://download.videolan.org/pub/vlc/SuSE/SLEap_15.4"
+    description: "VideoLAN repo (15.4)"
+    baseurl: "http://download.videolan.org/pub/vlc/SuSE/15.4"
     enabled: true
     priority: "2"
     module_hotfixes: true
     gpgcheck: true
-    gpgkey: "http://download.opensuse.org/repositories/home:/alvistack/openSUSE_SLEap_15.4/repodata/repomd.xml.key"
+    gpgkey: "http://download.opensuse.org/repositories/home:/alvistack/openSUSE_15.4/repodata/repomd.xml.key"
     state: "present"
 
 _zypper:
