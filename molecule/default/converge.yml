@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: vlc
-      tags: vlc
+        name: alvistack.vlc
+      tags: alvistack.vlc
