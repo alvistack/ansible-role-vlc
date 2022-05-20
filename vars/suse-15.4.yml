@@ -28,7 +28,7 @@ _yum_repository:
     priority: "2"
     module_hotfixes: true
     gpgcheck: true
-    gpgkey: "http://download.opensuse.org/repositories/home:/alvistack/openSUSE_15.4/repodata/repomd.xml.key"
+    gpgkey: "http://downloadcontent.opensuse.org/repositories/home:/alvistack/openSUSE_15.4/repodata/repomd.xml.key"
     state: "present"
 
 _zypper:
