@@ -20,7 +20,8 @@
   become: true
   tasks:
     - name: vlc --version
-      ansible.builtin.command: vlc --version
+      ansible.builtin.command:
+        cmd: vlc --version
       register: result
       changed_when: false
       failed_when: "'VLC is not supposed to be run as root. Sorry.' not in result.stderr"
