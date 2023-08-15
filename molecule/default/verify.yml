@@ -19,9 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: vlc --version
+    - name: flatpak info org.videolan.VLC
       ansible.builtin.command:
-        cmd: vlc --version
+        cmd: flatpak info org.videolan.VLC
       register: result
-      changed_when: false
-      failed_when: "'VLC is not supposed to be run as root. Sorry.' not in result.stderr"
+      changed_when: result is not succeeded
