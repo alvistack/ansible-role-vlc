@@ -1,13 +1,13 @@
-# Ansible Role for VLC
+# Ansible Role for VLC with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-vlc/master)](https://gitlab.com/alvistack/ansible-role-vlc/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-vlc.svg)](https://github.com/alvistack/ansible-role-vlc/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.vlc-blue.svg)](https://galaxy.ansible.com/alvistack/vlc)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_vlc/master)](https://gitlab.com/alvistack/ansible-role-flatpak_vlc/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_vlc.svg)](https://github.com/alvistack/ansible-role-flatpak_vlc/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_vlc.svg)](https://github.com/alvistack/ansible-role-flatpak_vlc/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_vlc-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_vlc)
 
-Ansible Role for VLC Installation.
+Ansible Role for VLC with Flatpak.
 
 ## Requirements
 

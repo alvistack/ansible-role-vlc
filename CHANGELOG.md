@@ -1,4 +1,4 @@
-# Ansible Role for VLC
+# Ansible Role for VLC with Flatpak
 
 ## 13.6.0 - TBC
 

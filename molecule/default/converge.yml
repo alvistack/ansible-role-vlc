@@ -24,4 +24,4 @@
 
     - name: include role
       ansible.builtin.include_role:
-        name: alvistack.vlc
+        name: alvistack.flatpak_vlc
